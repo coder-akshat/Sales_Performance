@@ -102,15 +102,3 @@ This project successfully demonstrates the power of combining SQL and Power BI f
 
 ---
 
-
----
-
-## 📬 Contact
-
-**Author**: Mohan Kumar  
-**Mail**: mohan122000kumar@gmail.com
-
----
-
-⭐ *Feel free to fork or star this repo if you found it useful!*
-
